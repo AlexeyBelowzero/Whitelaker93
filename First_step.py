@@ -4,3 +4,11 @@ def myprint():
 
 
 myprint()
+
+
+def second_print():
+    x = 'Here we go again'
+    print(x)
+
+
+second_print()
